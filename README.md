@@ -60,7 +60,7 @@
 <h3 align="center">🔗 Connect With Me</h3>
 
 <div align="center">
-  <a href="https://linkedin.com/in/risshigurjar248" target="_blank">
+  <a href="https://www.linkedin.com/in/rishi-gurjar-536634377/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/risshigurjar248" target="_blank">
@@ -82,20 +82,17 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=risshigurjar248&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="180" alt="github stats"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=risshigurjar248&theme=dracula&hide_border=false" height="180" alt="streak stats"  />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishigurjar248&theme=dracula&hide_border=false" height="180" alt="streak stats"  />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risshigurjar248&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="180" alt="top languages"  />
-</div>
+ 
 
 ###
 
 <h3 align="center">🏆 Trophies</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/risshigurjar248/risshigurjar248/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github.com/rishigurjar248/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
