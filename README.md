@@ -87,24 +87,4 @@
 
  
 
-###
-
-<h3 align="center">🏆 Trophies</h3>
-
-<div align="center">
-  <img src="https://github.com/rishigurjar248/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<h3 align="center">🎮 Contribution Graph</h3>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/risshigurjar248/risshigurjar248/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/risshigurjar248/risshigurjar248/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/risshigurjar248/risshigurjar248/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
-
 <p align="center">⭐️ From <a href="https://github.com/rishigurjar248">rishigurjar248</a></p>
