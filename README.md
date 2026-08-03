@@ -1,52 +1,180 @@
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+<div align="center">
 
-###
+# Hi 👋, I'm Rishi Gurjar
 
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+### 🚀 Full-Stack Developer | Problem Solver | Lifelong Learner
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Building+%26+Learning+Every+Day;DSA+Enthusiast;Open+Source+Contributor;Welcome+to+my+GitHub!" />
+
+<p>
+Building • Learning • Shipping
+</p>
+
 </div>
 
-###
+---
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+# 💫 About Me
+
+- 🎓 B.Tech (ECE) at **IIIT Nagpur**
+- 💻 Passionate about **Full-Stack Development**
+- 🌱 Currently learning **Advanced React, Next.js & Backend Development**
+- ⚡ Love solving **Data Structures & Algorithms**
+- 🚀 Building scalable and modern web applications
+- 📍 Gwalior, Madhya Pradesh, India
+
+---
+
+# 🛠 Tech Stack
+
+## 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,c" />
+</p>
+
+## 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
+</p>
+
+## ⚙ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+## 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+## ☁ DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,postman,vercel,docker" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rishigurjar248&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishigurjar248&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-###
+---
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=rishigurjar248&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/rishigurjar248/rishigurjar248/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=rishigurjar248&theme=tokyonight&hide_border=true" />
+
 </div>
 
-###
+---
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishigurjar248/rishigurjar248/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishigurjar248/rishigurjar248/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rishigurjar248/rishigurjar248/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+# 🏆 GitHub Trophies
 
-###
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rishigurjar248&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishigurjar248&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🚀 Current Focus
+
+```text
+🌱 Learning      ████████████████░░ 80%
+
+⚛ React          ██████████████████ 90%
+
+⚡ Next.js        ██████████████░░░░ 75%
+
+🟢 Node.js        ███████████████░░░ 80%
+
+🍃 MongoDB        ███████████████░░░ 80%
+
+🧠 DSA            █████████████████░ 85%
+```
+
+---
+
+# 🌟 Featured Skills
+
+```text
+✔ Full Stack Development
+
+✔ REST APIs
+
+✔ Responsive UI
+
+✔ Database Design
+
+✔ Authentication
+
+✔ Git & GitHub
+
+✔ Object Oriented Programming
+
+✔ Data Structures & Algorithms
+```
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/rishi-gurjar-536634377/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> *"Success doesn't come from what you do occasionally. It comes from what you do consistently."*
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=rishigurjar248&label=Profile+Views&color=7C3AED&style=for-the-badge)
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+</div>
