@@ -68,13 +68,7 @@ Building • Learning • Shipping
 
 # 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rishigurjar248&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishigurjar248&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+ 
 
 ---
 
@@ -86,15 +80,6 @@ Building • Learning • Shipping
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rishigurjar248&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
 
 # 📈 Contribution Graph
 
@@ -158,11 +143,11 @@ Building • Learning • Shipping
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="https://drive.google.com/file/d/13sUM7vr52MsrOtdEU4bS2mBL_NWPwyDf/view?usp=drivesdk">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="https://www.instagram.com/itsrishiigurjar/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
