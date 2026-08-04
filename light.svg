@@ -1,25 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610"
      viewBox="0 0 1180 610">
   <defs>
+       <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2563EB"><animate attributeName="stop-color" values="#2563EB;#06B6D4;#10B981;#2563EB" dur="10s" repeatCount="indefinite"/></stop>
+      <stop offset="0.5" stop-color="#06B6D4"><animate attributeName="stop-color" values="#06B6D4;#10B981;#2563EB;#06B6D4" dur="10s" repeatCount="indefinite"/></stop>
+      <stop offset="1" stop-color="#10B981"><animate attributeName="stop-color" values="#10B981;#2563EB;#06B6D4;#10B981" dur="10s" repeatCount="indefinite"/></stop>
+    </linearGradient>
 
-<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-<stop offset="0" stop-color="#2563EB"/>
-<stop offset="0.5" stop-color="#06B6D4"/>
-<stop offset="1" stop-color="#10B981"/>
-</linearGradient>
-<linearGradient id="panelGrad" x1="0" y1="0" x2="0" y2="1">
-<stop offset="0" stop-color="#F8FAFC"/>
-<stop offset="1" stop-color="#EEF2F7"/>
-</linearGradient>
-<filter id="glow3"><feGaussianBlur stdDeviation="3"/></filter>
-
-    <clipPath id="round-light">
-      <rect x="0" y="0" width="1180" height="610" rx="14"/>
-    </clipPath>
-    <clipPath id="portrait-clip-light">
-      <rect x="24" y="94" width="400" height="451" rx="6" filter="url(#glow3)"/>
-    </clipPath>
-  </defs>
+       <linearGradient id="asciiGrad" x1="0" y1="0" x2="0" y2="520" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1D4ED8"/>
+      <stop offset="0.45" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#0891B2"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="0 -120; 0 120; 0 -120" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+<linearGradient id="panelGrad" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F8FAFC"/><stop offset="1" stop-color="#EEF2F7"/></linearGradient>
+<filter id="glow8" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="8"/></filter>
+<filter id="glow3" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3"/></filter>
+<filter id="txtGlow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="0.9" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="winClip"><rect x="2" y="2" width="1176" height="606" rx="18"/></clipPath>
+ 
+</defs>
+    
   <g clip-path="url(#round-light)">
     <rect x="0" y="0" width="1180" height="610" fill="url(#panelGrad)"/>
     
