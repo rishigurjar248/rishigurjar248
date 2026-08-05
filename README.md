@@ -3,6 +3,17 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishigurjar248/rishigurjar248/main/light.svg">
   <img alt="Arif Hasan" src="https://raw.githubusercontent.com/rishigurjar248/rishigurjar248/main/light.svg">
 </picture>
+<!-- ===== CONTRIBUTION SNAKE ===== -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishigurjar248/rishigurjar248/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishigurjar248/rishigurjar248/output/snake-light.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/rishigurjar248/rishigurjar248/output/snake-light.svg" />
+</picture>
+
+</div>
 
 
 <div align="center">
