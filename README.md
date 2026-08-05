@@ -3,6 +3,18 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishigurjar248/rishigurjar248/main/light.svg">
   <img alt="Arif Hasan" src="https://raw.githubusercontent.com/rishigurjar248/rishigurjar248/main/light.svg">
 </picture>
+
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=rishigurjar248&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
 <!-- ===== CONTRIBUTION SNAKE ===== -->
 
 <div align="center">
@@ -15,21 +27,7 @@
 
 </div>
 
-
-
-# 📊 GitHub Analytics
-
  
-
----
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=rishigurjar248&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
 
 # Hi 👋, I'm Rishi Gurjar
 
