@@ -16,6 +16,19 @@
 </div>
 
 
+
+# 📊 GitHub Analytics
+
+ 
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=rishigurjar248&theme=tokyonight&hide_border=true" />
+
+</div>
+
 <div align="center">
 
 # Hi 👋, I'm Rishi Gurjar
